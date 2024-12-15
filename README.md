@@ -5,7 +5,7 @@ a linux tux boot screen (plymouth theme)
 
 1. Clone this repo and then `cd` to it.
 
-         git clone https://github.com/fathyar/mac-plymouth.git && cd mac-plymouth
+         git clone https://github.com/jejo205713/tux-plymouth-theme.git && cd tux-plymouth-theme
         
 2. Copy **mac** folder to `/usr/share/plymouth/themes` directory and `cd` to there.
 
