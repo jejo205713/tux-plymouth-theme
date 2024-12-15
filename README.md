@@ -1,6 +1,9 @@
 # tux-plymouth-theme
 a linux tux boot screen (plymouth theme)
 
+![Boot Screen](https://github.com/jejo205713/tux-plymouth-theme/raw/main/mac/boot.png)
+
+
 ## Installation
 
 1. Clone this repo and then `cd` to it.
@@ -24,3 +27,6 @@ a linux tux boot screen (plymouth theme)
 5. Finally, run:
         
          sudo update-initramfs -u
+
+## CREDITS : 
+JEJO.J
